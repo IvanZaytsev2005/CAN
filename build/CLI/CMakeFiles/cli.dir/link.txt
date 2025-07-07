@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libcli.a CMakeFiles/cli.dir/src/cli.c.obj
+/usr/bin/arm-none-eabi-ranlib libcli.a

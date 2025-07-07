@@ -1,0 +1,11 @@
+/home/dgtop/projects/CAN/F407/CAN/build/CMakeFiles/CAN.dir
+/home/dgtop/projects/CAN/F407/CAN/build/CMakeFiles/edit_cache.dir
+/home/dgtop/projects/CAN/F407/CAN/build/CMakeFiles/rebuild_cache.dir
+/home/dgtop/projects/CAN/F407/CAN/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/dgtop/projects/CAN/F407/CAN/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
+/home/dgtop/projects/CAN/F407/CAN/build/CLI/CMakeFiles/cli.dir
+/home/dgtop/projects/CAN/F407/CAN/build/CLI/CMakeFiles/edit_cache.dir
+/home/dgtop/projects/CAN/F407/CAN/build/CLI/CMakeFiles/rebuild_cache.dir
+/home/dgtop/projects/CAN/F407/CAN/build/VESC/CMakeFiles/vesc.dir
+/home/dgtop/projects/CAN/F407/CAN/build/VESC/CMakeFiles/edit_cache.dir
+/home/dgtop/projects/CAN/F407/CAN/build/VESC/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+[submodule "CLI"]
+	path = CLI
+	url = git@github.com:IvanZaytsev2005/CLI.git
+[submodule "VESC"]
+	path = VESC
+	url = git@github.com:IvanZaytsev2005/VESC.git

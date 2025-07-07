@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libvesc.a CMakeFiles/vesc.dir/src/vesc.c.obj
+/usr/bin/arm-none-eabi-ranlib libvesc.a
